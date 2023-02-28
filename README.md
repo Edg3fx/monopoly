@@ -27,7 +27,7 @@ It is the registry for all the properties and contains all the data regarding th
     - The current rent of the property if a player which is not the owner were to land on the property
     - What colour set it belongs to
     
-#Additional Information
+# Additional Information
 
 Project is still in development stage and does not have all above features implemented to completion as of now. Updates will be made once they are added to the 
 source code and a part of the game. 

@@ -21,11 +21,10 @@ I honestly forgot.
 3. **`properti.py`**
 
 It is the registry for all the properties and contains all the data regarding the property which include:
-
-    - If purchased or not
-    - The Price & Mortgage value of the property
-    - The current rent of the property if a player which is not the owner were to land on the property
-    - What colour set it belongs to
+- If purchased or not
+- The Price & Mortgage value of the property
+- The current rent of the property if a player which is not the owner were to land on the property
+- What colour set it belongs to
     
 # Additional Information
 
